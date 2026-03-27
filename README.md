@@ -5,11 +5,7 @@
 <div align="center">
   <h2>Olá, eu sou o Ronaldo! 👋</h2>
   <p>Entusiasta de tecnologia com bagagem sólida em Infraestrutura.</p>
-  
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+</div> 
 
 ### 📚 Estudando Agora:
 - 💻 **Java** (Backend & Lógica)
