@@ -3,7 +3,6 @@
   <p>Entusiasta de tecnologia com bagagem sólida em Infraestrutura e apaixonado por música. 🎸</p>
 </div>
 
----
 
 ### 📚 Estudando Agora:
 - 💻 **Java** (Backend & Lógica)
@@ -21,8 +20,3 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSoranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</div>
